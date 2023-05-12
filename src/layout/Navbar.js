@@ -23,7 +23,7 @@ class Navbar extends Component {
       <div className={classes.navbar}>
         <div className={classes.title}>
           <img src={resume}  alt="logo"/>
-          <span>Markdown简历</span>
+          <span>快点Markdown简历排版工具</span>
         </div>
         <div className={classes.btnGroup}>
           <ListSwitch />
